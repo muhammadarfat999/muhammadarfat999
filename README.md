@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadarfat999
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m currently Vue js development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
